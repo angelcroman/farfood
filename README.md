@@ -1,4 +1,4 @@
-VERSION 1.0
+VERSION 1.0 (CHEMBL 35, FOODB 1.0)
 
 The FARFOOD database can be accesed by two different ways:
 
